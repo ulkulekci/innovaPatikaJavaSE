@@ -1,0 +1,22 @@
+package cominnova.Bean;
+
+public class Pojo {
+    private int studentid;
+    private String studentName;
+
+    public int getStudentid() {
+        return studentid;
+    }
+
+    public void setStudentid(int studentid) {
+        this.studentid = studentid;
+    }
+
+    public String getStudentName() {
+        return studentName;
+    }
+
+    public void setStudentName(String studentName) {
+        this.studentName = studentName;
+    }
+}

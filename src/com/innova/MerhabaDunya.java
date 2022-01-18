@@ -6,3 +6,5 @@ public class MerhabaDunya {
         System.out.println("ülkü külekçi");
     }
 }
+
+
